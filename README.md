@@ -1,2 +1,3 @@
 # hello-world
-place for ideas
+a place for ideas
+My name is Samantha Michaels
